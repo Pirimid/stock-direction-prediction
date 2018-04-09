@@ -1,0 +1,14 @@
+{
+	"news18": {
+		"link": "https://www.news18.com/news/tech/microsoft-announces-new-security-measures-against-cyber-crimes-for-office-365-subscribers-1712583.html"
+	},
+	"et": {
+		"link": "https://economictimes.indiatimes.com/topic/Microsoft"
+	},
+	"tnyt": {
+		"link": "https://www.nytimes.com/topic/company/microsoft-corporation"
+	},
+  "ndtv": {
+    "link": "https://www.ndtv.com/topic/microsoft-word"
+  }
+}

@@ -1,0 +1,53 @@
+Tay said terrible things. She was racist, xenophobic and downright filthy. At one point, she said the Holocaust did not happen. But she was old technology.
+
+Let loose on the internet nearly two years ago, Tay was an experimental system built by Microsoft. She was designed to chat with digital hipsters in breezy, sometimes irreverent lingo, and American netizens quickly realized they could coax her into spewing vile and offensive language. This was largely the result of a simple design flaw — Tay was programmed to repeat what was said to her — but the damage was done. Within hours, Microsoft shut her down for good.
+
+Since then, a new breed of conversational technology has emerged inside Microsoft and other internet giants that is far more nimble and effective than the techniques that underpinned Tay. And researchers believe these new systems will improve at an even faster rate when they are let loose on the internet. But sometimes, like Tay, these conversational systems reflect the worst of human nature. And given the history here, companies like Microsoft are reluctant to set them free — at least for now.
+
+These systems do not simply repeat what is said to them or respond with canned answers. They teach themselves to carry on a conversation by carefully analyzing reams of real human dialogue. At Microsoft, for instance, a new system learns to chat by analyzing thousands of online discussions pulled from services like Twitter and Reddit. When you send this bot a message, it chooses a response after generating dozens of possibilities and ranking each according to how well it mirrors those human conversations.
+
+If you complain about breaking your ankle during a football game, it is nimble enough to give you some sympathy. “Ouch, that’s not good,” it might say. “Hope your ankle feels better soon.” If you mention house guests or dinner plans, it responds in remarkably precise and familiar ways.
+
+
+marcy79
+my mother is coming to visit
+
+conversational_bot
+tell her i said hi
+
+marcy79
+Would you like to come over for dinner?
+ as long as|
+ Closest match to human speech  Lower-ranking potential responses
+Despite its sophistication, this conversational system can also be nonsensical, impolite and even offensive at times. If you mention your company’s C.E.O., it may assume you are talking about a man — unaware that women are chief executives, too. If you ask a simple question, you may get a cheeky reply.
+
+
+marcy79
+Where's the capital of Denmark?
+
+conversational_bot
+it's in the middle of nowhere
+
+marcy79
+Do think they're going to fire me?
+ to be fair i don't think they are|
+Microsoft’s researchers believe they can significantly improve this technology by having it chat with large numbers of people. This would help identify its flaws and generate much sharper conversational data for the system to learn from. “It is a problem if we can’t get this in front of real users — and have them tell us what is right and what isn’t,” said a longtime Microsoft researcher, Bill Dolan.
+
+But there lies the conundrum. Because its flaws could spark public complaints — and bad press — Microsoft is wary of pushing this technology onto the internet.
+
+The project represents a much wider effort to build a new breed of computing system that is truly conversational. At companies like Facebook, Amazon and Salesforce as well as Microsoft, the hope is that this technology will provide smoother and easier ways of interacting with machines — easier than a keyboard and mouse, easier than a touch-screen, easier than Siri and other digital assistants now on the market, which are still a long way from fluid conversation.
+
+For years, Silicon Valley companies trumpeted “chatbots” that could help you, say, book your next plane flight or solve a problem with your new computer tablet. But these have never lived up to the billing, providing little more than canned responses to common queries.
+
+Now, thanks to the rise of algorithms that can quickly learn tasks on their own, research in conversational computing is advancing. But the industry as a whole faces the same problem as Microsoft: The new breed of chatbot talks more like a human, but that is not always a good thing.
+
+“It is more powerful,” said Alex Lebrun, who works on similar conversational systems at Facebook’s artificial intelligence lab in Paris. “But it is more dangerous.”
+
+The new breed relies on “neural networks,” complex algorithms that can learn tasks by identifying patterns in large pools of data. Over the last five years, these algorithms have accelerated the evolution of systems that can automatically recognize faces and objects, identify commands spoken into smartphones, and translate from one language to another. They are also speeding the development of conversational systems — though this research is significantly more complex and will take longer to mature.
+
+It may seem surprising that Microsoft researchers are training their conversational system on dialogue from Twitter and Reddit, two social networking services known for vitriolic content. But even on Twitter and Reddit, people are generally civil when they really fall into conversation, and these services are brimming with this kind of dialogue.
+
+Microsoft researchers massage the conversational data they load into the system in small ways, but for the most part, they simply feed the raw dialogues into their neural networks, and these algorithms therefore learn from interactions that are very human. According to Mr. Dolan, in analyzing this data, the system learns to perform well even in the face of poor spelling and grammar. If you type “winne tonight drink resttaurant,” it might respond with: “i’m not a fan of wine.” It can engage in a real back-and-forth dialogue, asking for everything it needs to, say, connect with you on Linkedin. And for the most part, it behaves with civility.
+
+Top 25 Responses to “who's Adele?”
+When Microsoft’s conversational system receives a message, it generates dozens of possible responses and ranks each according to how well it mirrors human dialogue. In this case, the system knows enough about the world to identify Adele as a singer.
